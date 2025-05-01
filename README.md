@@ -1,16 +1,16 @@
-## Tic-Tac-Toe Game
+## 🎮 Tic-Tac-Toe Game
 Welcome to the Tic-Tac-Toe Game, a classic two-player game developed with React Native! This app brings the timeless fun of Tic-Tac-Toe right to your mobile device.
 
-## Features
+## 📝 Features
 Simple and intuitive user interface.
 
-## Two-player mode (local).
+## 🕹️ Two-player mode (local).
 
 Dynamic game board with responsive design.
 
 Instant winner detection and game reset functionality.
 
-## Getting Started
+## ⚛️ Getting Started
 Prerequisites
 To run this application, you need:
 
@@ -20,7 +20,7 @@ React Native CLI
 
 A mobile emulator or a physical device
 
-## Installation
+## 💻 Installation
 Clone this repository:
 
 git clone <repository-url>
